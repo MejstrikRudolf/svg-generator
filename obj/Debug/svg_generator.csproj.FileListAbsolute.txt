@@ -1,0 +1,9 @@
+C:\Users\mejst\OneDrive\Desktop\svg_generator\svg_generator\obj\Debug\svg_generator.csprojAssemblyReference.cache
+C:\Users\mejst\OneDrive\Desktop\svg_generator\svg_generator\obj\Debug\svg_generator.Form1.resources
+C:\Users\mejst\OneDrive\Desktop\svg_generator\svg_generator\obj\Debug\svg_generator.Properties.Resources.resources
+C:\Users\mejst\OneDrive\Desktop\svg_generator\svg_generator\obj\Debug\svg_generator.csproj.GenerateResource.cache
+C:\Users\mejst\OneDrive\Desktop\svg_generator\svg_generator\bin\Debug\svg_generator.exe.config
+C:\Users\mejst\OneDrive\Desktop\svg_generator\svg_generator\bin\Debug\svg_generator.exe
+C:\Users\mejst\OneDrive\Desktop\svg_generator\svg_generator\bin\Debug\svg_generator.pdb
+C:\Users\mejst\OneDrive\Desktop\svg_generator\svg_generator\obj\Debug\svg_generator.exe
+C:\Users\mejst\OneDrive\Desktop\svg_generator\svg_generator\obj\Debug\svg_generator.pdb
